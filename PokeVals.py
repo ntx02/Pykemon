@@ -25,5 +25,5 @@ PokemonDict = {
     'Sobble':'Water'
             }
 
-PokemonList = ['Charmander', 'Bulbasaur', 'Squirtle', 'Totodile', 'Cyndaquil', 'Chikorita', 'Mudkip', 'Torchic', 'Treecko', 'Piplup', 'Chimchar', 'Turtwig', 'Tepig', 'Snivy', 'Oshawott', 'Froakie', 'Fennekin', 'Chespin', 'Litten', 'Rowlet', 'Popplio', 'Grookey', 'Scorbunny', 'Sobble']
+PokemonList = list(PokemonDict.keys())
 
